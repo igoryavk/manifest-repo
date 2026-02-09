@@ -2,7 +2,7 @@
 <manifest>
 	<!-- Определяем удаленный репозиторий -->
 	<remote name="github" 
-		fetch="https://github.com/igoryavk/"/>
+		fetch="git@github.com/igoryavk/"/>
 
 	<!-- Настройки по умолчанию -->
 	<default revision="master"
