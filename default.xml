@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding='UTF-8' ?>
+<manifest>
+	<!-- Определяем удаленный репозиторий -->
+	<remote name="github" 
+		fetch="https://github.com/igoryavk/"/>
+
+	<!-- Настройки по умолчанию -->
+	<default revision="main"
+		remote="github"
+		sync-j+"4" />
+	<!-- Мои проекты -->
+	<project path="my-app" name="project-repo" />
+	<project path="libs/utils" name="utils-repo" />
+</manifest>
