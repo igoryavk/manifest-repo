@@ -10,5 +10,4 @@
 		sync-j="4" />
 	<!-- Мои проекты -->
 	<project path="my-app" name="project-repo" />
-	<project path="libs/utils" name="utils-repo" />
 </manifest>
