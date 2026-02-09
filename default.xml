@@ -7,7 +7,7 @@
 	<!-- Настройки по умолчанию -->
 	<default revision="master"
 		remote="github"
-		sync-j+"4" />
+		sync-j="4" />
 	<!-- Мои проекты -->
 	<project path="my-app" name="project-repo" />
 	<project path="libs/utils" name="utils-repo" />
