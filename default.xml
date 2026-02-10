@@ -2,12 +2,12 @@
 <manifest>
 	<!-- Определяем удаленный репозиторий -->
 	<remote name="github" 
-		fetch="git@github.com"/>
+		fetch="git@github.com:"/>
 
 	<!-- Настройки по умолчанию -->
 	<default revision="master"
 		remote="github"
 		sync-j="4" />
 	<!-- Мои проекты -->
-	<project path="my-app" name="project-repo" />
+	<project path="my-app" name="igoryavk/project-repo" />
 </manifest>
