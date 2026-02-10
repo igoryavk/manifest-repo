@@ -9,5 +9,5 @@
 		remote="github"
 		sync-j="4" />
 	<!-- Мои проекты -->
-	<project path="my-app" name="igoryavk/project-repo" />
+	<project path="my-app" name="project-repo" />
 </manifest>
